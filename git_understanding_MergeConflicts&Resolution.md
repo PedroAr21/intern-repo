@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 What caused the conflict?
 
 
