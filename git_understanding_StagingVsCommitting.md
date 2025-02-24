@@ -5,5 +5,5 @@ Why does Git separate these two steps?
 To be sure before save permanently changes.
 
 When would you want to stage changes without committing?
-When we want to save permanently changes to the GitHub repo
+When we want to save permanently changes to the GitHub repo.
 
