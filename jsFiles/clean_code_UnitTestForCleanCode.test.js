@@ -5,9 +5,3 @@ test('Properly adds two numbers', () => {
         sum(1, 2)
     ).toBe(3)
 })
-
-// function cloneArray(array){
-//     return [...array]
-// }
-
-// module.exports = cloneArray
